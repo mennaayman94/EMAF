@@ -1,0 +1,21 @@
+.container {
+  margin-left: 0px;
+  margin-right: 0;
+}
+
+.input {
+  width: 60%;
+  height: 40%;
+  padding-right: 0%;
+  margin: 0px;
+  box-sizing: border-box;
+  margin-left: 55%;
+  margin-top: 3%;
+}
+.mapboxgl-canvas {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  margin-left: 1%;
+  border-radius: 10px;
+}
